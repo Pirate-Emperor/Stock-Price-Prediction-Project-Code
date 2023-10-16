@@ -58,10 +58,16 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the main Python script:
+Run the main Python script to Predict:
 
 ```bash
-python main.py
+python stock_pred.py
+```
+
+Run the main Python script to Run the flask app:
+
+```bash
+python stock_run.py
 ```
 
 Follow the prompts to enter the stock ticker, date range, and prediction window. The application will fetch the historical data, train the machine learning models, predict the future stock prices, and display the results.
