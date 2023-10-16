@@ -1,4 +1,4 @@
-# Stock_Predictor_ML
+# Stock-Price-Prediction-Project-Code
 
 Developed by Pirate-Emperor, Stock-Price-Prediction is a machine learning application built with Python that provides users with stock price predictions based on historical data.
 
